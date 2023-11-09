@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-<h1 align="center">Hello!👋, I'm Soumojit Chakraborty</h1>
+<h1 align="center">Hello!👋, I'm Rupam Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m comforable with **node.js, Docker, Devops tools**
 
-- 💬 I work with **typescript , react.js , node.js , web 3.0**
+- 💬 I work with **typescript , react.js , node.js **
 
-- 📫 How to reach me **soumojit.chk@gmail.com**
+- 📫 How to reach me **rupamghosh490@gmail.com**
 
 - ⚡ Open to work as a freelancer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@soumojitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@soumojitch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumojit-chakraborty-1ba44020a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumojit-chakraborty-1ba44020a/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
