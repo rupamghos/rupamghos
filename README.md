@@ -3,7 +3,7 @@
 <h1 align="center">Hello!👋, I'm Rupam Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m comforable with **node.js, Docker, Devops tools**
+- 🌱 I’m comforable with **HTML5,CSS,JvaScript**
 
 - 💬 I work with **typescript , react.js , node.js **
 
