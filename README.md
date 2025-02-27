@@ -26,10 +26,10 @@
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=RUPAM-GHOSH&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUMOJIT-CHAKRABORTY&show_icons=true&locale=en&layout=compact&theme=aura"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RUPAM-GHOSH&show_icons=true&locale=en&layout=compact&theme=aura"/>
 </td>
 </tr> 
 </table>
 <p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=SOUMOJIT-CHAKRABORTY&theme=aura"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=RUPAM-GHOSH&theme=aura"/>
 </p>
