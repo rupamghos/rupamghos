@@ -25,7 +25,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RUPAM-GHOSH&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUMOJIT-CHAKRABORTY&show_icons=true&locale=en&layout=compact&theme=aura"/>
 </td>
 </tr> 
